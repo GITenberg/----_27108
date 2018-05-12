@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '32463'
     url: http://www.gutenberg.org/2009/agents/32463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27108#----
 gutenberg_issued: '2008-10-31'
 gutenberg_type: Text
 identifiers:
