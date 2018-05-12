@@ -1,0 +1,36 @@
+_repo: '----_27108'
+_version: 0.1.0
+alternative_title: Xing meng pian yan
+contributor:
+  commentator:
+    agent_name: Wang, Xiu mei
+    gutenberg_agent_id: '32464'
+    url: http://www.gutenberg.org/2009/agents/32464
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Juqizi, active 17th century
+    aliases:
+    - 菊畦子
+    - Shoupuweng
+    - Puyazhuren
+    - Puyaizhuren
+    - Juqizhuren
+    - Juxizhuren
+    gutenberg_agent_id: '32463'
+    url: http://www.gutenberg.org/2009/agents/32463
+description: ''
+gutenberg_issued: '2008-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27108'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+title: 醒夢駢言
+url: http://www.gutenberg.org/ebooks/27108
